@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj": {}
+    "C:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj": {
+    "C:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj",
+        "projectUniqueName": "C:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj",
         "projectName": "MvcExam",
-        "projectPath": "c:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj",
+        "projectPath": "C:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\MvcExam.csproj",
         "packagesPath": "C:\\Users\\Long\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\obj\\",
+        "outputPath": "C:\\Users\\Long\\Documents\\NghiemThanhLong_PTPMQL\\MvcExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Long\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,40 +43,6 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "dependencies": {
-            "MailKit": {
-              "target": "Package",
-              "version": "[4.17.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[10.0.9, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[10.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[10.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[10.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[10.0.9, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[10.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
